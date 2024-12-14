@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Example Paper: Advances in Machine Learning",
+        "authors": ["John Doe", "Jane Smith"],
+        "date": "2024-01-15",
+        "abstract": "This is a placeholder paper demonstrating the papers system. Replace with actual papers.",
+        "tags": ["Machine Learning", "AI", "Research"],
+        "pdf": "example-paper.pdf"
+    }
+]
